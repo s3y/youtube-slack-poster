@@ -1,5 +1,4 @@
 # An electron YT player, that updates your status in Slack
-=======
 
 An Electron application with React and TypeScript
 
